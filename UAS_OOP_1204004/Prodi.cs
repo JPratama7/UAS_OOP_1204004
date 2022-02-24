@@ -48,6 +48,8 @@ namespace UAS_OOP_1204004
         {
             textBox1.Text = "";
             textBox2.Text = "";
+            textBox3.Text = "";
+            textBox4.Text = "";
         }
         private void set_dataset()
         {

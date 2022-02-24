@@ -71,6 +71,7 @@ namespace UAS_OOP_1204004
         private void clear_textbox()
         {
             textBox1.Text = "";
+            textBox3.Text = "";
             comboBox1.ResetText();
         }
 
